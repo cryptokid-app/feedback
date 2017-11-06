@@ -7,6 +7,7 @@ Feedback repo for CryptoKid Happy Helpers :sparkle:
 ## v1.0.6
 
 * Coins view - Link for å opprette/endre coin metadata
+* Keyboard type numeric for basket coin amounts
 
 ## v1.0.5 (current TestFlight)
 
