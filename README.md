@@ -4,7 +4,11 @@ Feedback repo for CryptoKid Happy Helpers :sparkle:
 
 # Changelog
 
-## v1.0.5
+## v1.0.6
+
+* Coins view - Link for å opprette/endre coin metadata
+
+## v1.0.5 (current TestFlight)
 
 * Fixed layout issues for smaller & larger screens
 * Example name in basket placeholder
