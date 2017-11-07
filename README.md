@@ -11,6 +11,7 @@ Feedback repo for CryptoKid Happy Helpers :sparkle:
 * Avoid resetting to empty coin list (if service is restarted)
 * Allow empty basket names
 * Improved basket icons 
+* Only close drawer when selecting current view
 
 ## v1.0.5 (currently in TestFlight)
 
