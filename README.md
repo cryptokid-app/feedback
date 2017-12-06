@@ -4,6 +4,20 @@ Feedback repo for CryptoKid Happy Helpers :sparkle:
 
 # Changelog
 
+## v1.0.8 (coming soon!)
+
+* New pull-to-refresh API for price view (much faster!)
+* Fixed broken longpress meta info for price view
+* Improved live-update animation
+* Added , support for basket coin value
+* Improved graphs
+* Improved settings animation (overlay > pushdown)
+* Added ability change timespan
+
+## v1.0.7
+
+* New backend!! :tada: :rocket:
+
 ## v1.0.6
 
 * Coins view - Link for å opprette/endre coin metadata
