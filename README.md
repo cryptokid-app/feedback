@@ -17,7 +17,7 @@ Feedback repo for CryptoKid Happy Helpers :sparkle:
 * Added Basket coin details
 * Navigate to basket from main view
 * Add basket from main view
-* Simplified Coin View
+* New Coin View
 
 ## v1.0.7
 
